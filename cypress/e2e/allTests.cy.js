@@ -1,4 +1,4 @@
-import {faker} from '@faker-js/faker';
+
 import * as random from './getRandom.cy'
 import * as downvote from './downvote.cy'
 import * as upvote from './upvote.cy'
