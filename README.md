@@ -2,11 +2,13 @@
 
 *PARA FAZER OS TESTES DO FRONT SIGA OS PASSOS:* 
 
-Dê git clone no link :  https://github.com/jhuzinha/sing_song_front.git
+Dê git clone no link do front :  https://github.com/jhuzinha/sing_song_front.git
+Dê git clone no link do back : https://github.com/jhuzinha/sing_song_back.git 
 
 Rode os comandos no terminal :
 - npm i
 - npx cypress open
+- No front em outro terminal rode npm start (no back rode npm run dev)
 </br> 
 Apos abrir o cypress :
 </br> 
