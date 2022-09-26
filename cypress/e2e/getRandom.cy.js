@@ -6,7 +6,7 @@ beforeEach(async () => {
 
 describe('GET random', () => {
     it('get random without post',  () => {
-      cy.visit('http://localhost:3000/top');
+      cy.visit('http://localhost:3000/random');
       cy.contains('Loading...')
     });
     it('get random with some posts', ()=> {
