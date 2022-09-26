@@ -7,9 +7,9 @@ Dê git clone no link do front :  https://github.com/jhuzinha/sing_song_front.gi
 Dê git clone no link do back : https://github.com/jhuzinha/sing_song_back.git 
 
 Rode os comandos no terminal :
-- npm i
-- npx cypress open
-- No front em outro terminal rode npm start (no back rode npm run dev)
+-  ```  npm i ``` 
+-  ``` npx cypress open ``` 
+- No front em outro terminal rode ```  npm start ```  (no back rode ```  npm run dev ``` )
 </br> 
 Apos abrir o cypress :
 </br> 
